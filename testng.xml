@@ -1,0 +1,18 @@
+<suite name="Automation Test">
+
+    <test name="SmokeTesting">
+
+        <!--<classes>
+            <class name="com.application.testing.Basic"/>
+            <class name="com.application.testing.Basic2"/>
+
+        </classes>
+        -->
+
+        <packages>
+            <package name="com.application.testing"/>
+        </packages>
+
+    </test>
+
+</suite>
